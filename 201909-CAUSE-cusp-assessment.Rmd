@@ -146,12 +146,6 @@ library(kableExtra)
     - Includes topics we don't necessarily teach
     - Longer to implement 
 
-<!-- ### Penn State use  -->
-<!--     - benchmarking student skills and competancies against ASA Guidelines -->
-<!--     - identify areas of need just prior to graduation -->
-<!--     - annual program evaluation data  -->
-
-
 
 # Preliminary Item Functioning Analysis
 
@@ -184,6 +178,19 @@ library(kableExtra)
 
 ![](Q20.png){ width=80% }
 
+
+# Example Use Cases
+
+- Penn State
+    - Indirect assessment tool (i.e., Survey) administered pre & post (in addition to first-year students)
+    - Direct assessment tool (i.e., test) positioned as a midterm in the capstone course
+    - benchmarking student skills and competancies against ASA Guidelines
+    - allows several weeks to address areas of need prior to graduation
+    - useful for annual program evaluation data
+- Other Institutions
+    - no course credit
+    - homework, extra credit, etc
+    - typically open notes
 
 
 # Future work
