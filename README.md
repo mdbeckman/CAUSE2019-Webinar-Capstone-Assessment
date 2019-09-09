@@ -1,5 +1,8 @@
-## Title: Capstone assessment for the undergraduate statistics major
+## CAUSE Webinar
 
+## Capstone assessment for the undergraduate statistics major
+
+*September 10, 2019*
 
 ## Abstract
 
