@@ -1,4 +1,4 @@
-## Capstone assessment for the undergraduate statistics major
+## Title: Capstone assessment for the undergraduate statistics major
 
 
 ## Abstract
