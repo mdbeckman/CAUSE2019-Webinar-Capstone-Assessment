@@ -4,10 +4,9 @@ author: |
   | Matthew Beckman
   | Penn State University
 date: |
-  | Joint Statistical Meetings
-  | Denver, CO
+  | CAUSE Webinar
   | 
-  | July 30, 2019
+  | September 9, 2019
 output:
   beamer_presentation: 
     colortheme: seagull
@@ -217,10 +216,7 @@ library(kableExtra)
     - Christian Schmid
     - Daisy Philtron
 
-# Thank you
-
-
-![](final_slide.png){ width=95% }
+# Discussion
 
 
 
