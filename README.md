@@ -13,6 +13,7 @@ This work introduces new assessment tools to measure learning outcomes of studen
 
 - <https://mdbeckman.github.io/CAUSE2019-Webinar-Capstone-Assessment/>
 - [Presentation Slides (PDF)](201909-CAUSE-cusp-assessment.pdf)
+- [Test Blueprint (view-only)](https://bit.ly/2lGxurK)
 - [Example of Student Summary Card (PDF)](CUSP_Test_Summary_STUDENT DEMO.pdf)
 
 ![QR Code: Presentation home page](CAUSE_QR.png)

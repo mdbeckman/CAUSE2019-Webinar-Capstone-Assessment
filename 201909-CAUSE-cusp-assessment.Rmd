@@ -6,7 +6,8 @@ author: |
 date: |
   | CAUSE Webinar
   | 
-  | September 9, 2019
+  | September 10, 2019
+  
 output:
   beamer_presentation: 
     colortheme: seagull
@@ -60,6 +61,7 @@ library(kableExtra)
 
 # Comprehensive Undergraduate Statistics Program (CUSP) Assessment Strategy
 
+- [Test Blueprint (Link)](https://bit.ly/2lGxurK)
 - 95 competencies cited in 2014 ASA Guidelines  
 - single assessment tool likely not sufficient
 
