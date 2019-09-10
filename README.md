@@ -22,11 +22,9 @@ This work introduces new assessment tools to measure learning outcomes of studen
     - email to arrange dedicated link prior to classroom use
 
 
-<center>
 
 ![QR Code for presentation content](CAUSE_QR.png)
 
-</center>
 
 
 ## Contact
