@@ -15,11 +15,11 @@ This work introduces new assessment tools to measure learning outcomes of studen
 - [Presentation Slides (PDF)](201909-CAUSE-cusp-assessment.pdf)
 - [Test Blueprint (Link)](https://bit.ly/2lGxurK)
 - [Example of Student Summary Card (PDF)](CUSP_Test_Summary_STUDENT DEMO.pdf)
-- [Instructor Preview of Direct Assessment (Link)](https://pennstate.qualtrics.com/jfe/form/SV_09cemM9ifT96qoZ)
-    - **this preview is not for classroom use**
+- [Direct Assessment Instructor Preview (Link)](https://pennstate.qualtrics.com/jfe/form/SV_09cemM9ifT96qoZ)
+    - **instructor preview is not for classroom use**
     - email Matthew Beckman to request access password
     - email Matthew Beckman to request dedicated link for classroom use
-- [Instructor Preview of Indirect Assessment (Link)](https://pennstate.qualtrics.com/jfe/form/SV_73utHIevHKBFBiJ)
+- [Indirect Assessment (Survey Link)](https://pennstate.qualtrics.com/jfe/form/SV_73utHIevHKBFBiJ)
 
 ![QR Code: Presentation home page](CAUSE_QR.png)
 
