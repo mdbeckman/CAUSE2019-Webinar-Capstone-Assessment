@@ -24,7 +24,7 @@ This work introduces new assessment tools to measure learning outcomes of studen
 
 <center>
 
-![<https://mdbeckman.github.io/CAUSE2019-Webinar-Capstone-Assessment/>](CAUSE_QR.png)
+![QR Code for presentation content](CAUSE_QR.png)
 
 </center>
 
