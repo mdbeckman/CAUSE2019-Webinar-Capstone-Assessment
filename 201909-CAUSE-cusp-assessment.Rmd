@@ -99,6 +99,7 @@ library(kableExtra)
 - **Risks/Issues**
     - Reliability of self-reporting 
     - Over/Underconfidence with content exposure
+- [Indirect Assessment (Survey Link)](https://pennstate.qualtrics.com/jfe/form/SV_73utHIevHKBFBiJ)
 
 
 ### Excerpt
@@ -119,13 +120,16 @@ library(kableExtra)
     - 2 from the REGRESS assessment[^2] 
     - 9 from the CAOS assessment[^3]
 
-
 [^2]: Enders, F. (2013). Do clinical and translational science graduate students understand linear regression? Development and early validation of the REGRESS quiz. *Clinical and Translational Science, 6*(6).  p. 444-451. 
 
 [^3]: delMas, R., Garfield, J., Ooms, A., Chance, B. (2007). Assessing students' conceptual understanding after a first course in statistics.  *Statistics Education Research Journal, 6*. p. 28-58.
 
 
 # CUSP Test 
+
+- [Instructor Preview (link)](https://pennstate.qualtrics.com/jfe/form/SV_09cemM9ifT96qoZ)
+    - **preview is not for classroom use**
+    - password protected 
 
 ### Excerpt (partial item)
 
