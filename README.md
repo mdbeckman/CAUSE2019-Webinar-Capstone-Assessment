@@ -1,4 +1,4 @@
-## 2019 CAUSE Webinar (Beckman)
+## 2019 CAUSE Webinar
 
 ## Capstone assessment for the undergraduate statistics major
 
