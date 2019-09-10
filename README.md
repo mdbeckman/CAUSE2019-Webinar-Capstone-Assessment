@@ -13,8 +13,13 @@ This work introduces new assessment tools to measure learning outcomes of studen
 
 - <https://mdbeckman.github.io/CAUSE2019-Webinar-Capstone-Assessment/>
 - [Presentation Slides (PDF)](201909-CAUSE-cusp-assessment.pdf)
-- [Test Blueprint (view-only)](https://bit.ly/2lGxurK)
+- [Test Blueprint (Link)](https://bit.ly/2lGxurK)
 - [Example of Student Summary Card (PDF)](CUSP_Test_Summary_STUDENT DEMO.pdf)
+- [Instructor Preview of Direct Assessment (Link)](https://pennstate.qualtrics.com/jfe/form/SV_09cemM9ifT96qoZ)
+    - **this preview is not for classroom use**
+    - email Matthew Beckman to request access password
+    - email Matthew Beckman to request dedicated link for classroom use
+- [Instructor Preview of Indirect Assessment (Link)](https://pennstate.qualtrics.com/jfe/form/SV_73utHIevHKBFBiJ)
 
 ![QR Code: Presentation home page](CAUSE_QR.png)
 
