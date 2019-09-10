@@ -77,19 +77,19 @@ library(kableExtra)
 
 # Comprehensive Undergraduate Statistics Program (CUSP) Assessments
 
-- Direct assessment--CUSP Test
-    - selected response test
-    - approx. 1 hour duration
-    - multiple institutions w. single cohort
-    - single institution w. multiple cohorts
 - Indirect assessment--CUSP Survey
     - inventory of all 95 competancies cited in ASA Guidelines  
     - survey data self-reported by students
     - approx. 10-15 minutes duration
     - several cohorts from single institution 
+- Direct assessment--CUSP Test
+    - selected response test
+    - approx. 1 hour duration
+    - multiple institutions w. single cohort
+    - single institution w. multiple cohorts
 
 
-# CUSP Survey 
+# Indirect assessment--CUSP Survey 
 
 - **Benefits**
     - Easy implementation
@@ -106,17 +106,38 @@ library(kableExtra)
 
 ![](cuspSurvey.png){ width=80% }
 
+# Example Use 
 
-# CUSP Test Design
+- Indirect assessment tool (i.e., Survey) administered at key program milestones
+    - first-year seminar
+    - midpoint course(s)--if possible
+    - beginning & end of capstone course
+- informative for annual program evaluation data
+
+
+# Note to self
+
+> Dear Future Matt: 
+
+&nbsp;
+
+> This is a great place to pause for questions or comments from the group!
+
+&nbsp;
+
+> --Recent Self
+
+
+# Direct assessment--CUSP Test
 
 - Selected response assessment tool with broad coverage
 - 33 tasks; some with multiple parts
     - 9 testlets  
     - 24 conventional MC questions
 - several tasks/subtasks assess multiple competancies
-    - diminishing weight attributed to successive competancies (1, 1/2, 1/4, ...)
+    - score adjustment for successive competancies (1, 1/2, 1/4, ...)
     - 86 points possible
-- Mix of original tasks & some from established instruments (used with permission)
+- some tasks adpted from other instruments (with permission)
     - 2 from the REGRESS assessment[^2] 
     - 9 from the CAOS assessment[^3]
 
@@ -153,6 +174,35 @@ library(kableExtra)
     - Longer to implement 
 
 
+
+# Example Use Cases
+
+- Penn State
+    - Indirect assessment tool (i.e., Survey) administered pre & post (in addition to first-year students)
+    - Direct assessment tool (i.e., test) positioned as a midterm in the capstone course
+    - benchmarking student skills and competancies against ASA Guidelines
+    - allows several weeks to address areas of need prior to graduation
+    - useful for annual program evaluation data
+- Other Institutions
+    - no course credit
+    - homework, extra credit, etc
+    - typically open notes
+
+
+
+# Note to self
+
+> Dear Future Matt: 
+
+&nbsp;
+
+> Sorry to interrupt again--especially since it really wasn't even funny the first time--but I can't resist pointing out another great opportunity to pause for some discussion!
+
+&nbsp;
+
+> --Recent Self
+
+
 # Preliminary Item Functioning Analysis
 
 - Benchmarks for item statistics[^4]
@@ -185,20 +235,6 @@ library(kableExtra)
 ![](Q20.png){ width=80% }
 
 
-# Example Use Cases
-
-- Penn State
-    - Indirect assessment tool (i.e., Survey) administered pre & post (in addition to first-year students)
-    - Direct assessment tool (i.e., test) positioned as a midterm in the capstone course
-    - benchmarking student skills and competancies against ASA Guidelines
-    - allows several weeks to address areas of need prior to graduation
-    - useful for annual program evaluation data
-- Other Institutions
-    - no course credit
-    - homework, extra credit, etc
-    - typically open notes
-
-
 # Future work
 
 ### Shorter term goals
@@ -229,6 +265,7 @@ library(kableExtra)
     - Christian Schmid
     - Daisy Philtron
 
+
 # Discussion
 
 
@@ -238,15 +275,6 @@ library(kableExtra)
 ### CUSP Test blueprint alignment to ASA Guidelines
 
 ![](CUSP_Weights.png){ width=95% }
-
-
-# Student Results (Front)
-
-![](CUSP_Test_Summary_STUDENT DEMO.pdf){ width=80% }
-
-# Student Results (Back)
-
-![](CUSP_Test_Summary_STUDENT DEMO_back.pdf){ width=80% }
 
 
 # Scree plot of CUSP test data
